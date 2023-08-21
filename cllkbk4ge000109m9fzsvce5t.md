@@ -2,7 +2,7 @@
 title: "A Beginner’s guide to download any (almost) video on the internet."
 datePublished: Mon Aug 21 2023 03:30:13 GMT+0000 (Coordinated Universal Time)
 cuid: cllkbk4ge000109m9fzsvce5t
-slug: how-to-download-any-video-on-internet-using-python
+slug: how-to-download-any-video-on-internet
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681331656934/02571102-20e0-4c1e-bd77-c7fa1d8c5fa7.png
 tags: youtube, youtube-dl, python-libraries, wemakedevs, yt-dlp
 
